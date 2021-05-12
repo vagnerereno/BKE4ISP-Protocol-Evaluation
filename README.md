@@ -1,2 +1,5 @@
 # autenticacaoparaisps
-Repositório para atualizações do andamento da solução de autenticação direcionada a Internet Service Provider (ISP) Regionais.
+
+Para executar o script BKE4ISP.spdl e reproduzir os resultados, primeiro é necessário instalar a ferramenta Scyther https://people.cispa.io/cas.cremers/scyther/ 
+Depois, é só importar o BKE4ISP.spdl para a ferramenta e executar. 
+
