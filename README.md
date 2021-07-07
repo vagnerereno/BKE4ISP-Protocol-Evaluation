@@ -2,5 +2,3 @@
 
 Para executar o script BKE4ISP.spdl e reproduzir os resultados, primeiro é necessário instalar a ferramenta Scyther https://people.cispa.io/cas.cremers/scyther/ 
 Depois, é só importar o BKE4ISP.spdl para a ferramenta e executar. 
-
-Artigo ilustrando os resultados: https://errc.sbc.org.br/2020/papers/ST_WRSEG1_4_Aut_ISP.pdf
